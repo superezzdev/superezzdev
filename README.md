@@ -78,5 +78,5 @@
     <a href="https://github.com/superezzdev">	𝙶𝚒𝚝𝙷𝚞𝚋</a> ·
     <a href="https://www.linkedin.com/in/superezzdev">𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗</a> ·
     <a href="https://superezz.dev">𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘</a> ·
-    <a href="mailto:<EMAIL>">	𝙴𝚖𝚊𝚒𝚕</a>
+    <a href="mailto:hello@superezz.dev">	𝙴𝚖𝚊𝚒𝚕</a>
 </p>
